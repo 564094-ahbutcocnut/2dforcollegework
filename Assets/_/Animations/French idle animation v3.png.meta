@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: a5b3080906aa9294a8e09316a4dcd257
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4613576242483940713
+    second: French idle animation v3_0
+  - first:
+      213: -3824213023286053003
+    second: French idle animation v3_1
+  - first:
+      213: 8344914111805586658
+    second: French idle animation v3_2
+  - first:
+      213: -7898597644161688785
+    second: French idle animation v3_3
+  - first:
+      213: 3349051226258806485
+    second: French idle animation v3_4
+  - first:
+      213: -6449080291871238606
+    second: French idle animation v3_5
+  - first:
+      213: -5309355796504580404
+    second: French idle animation v3_6
+  - first:
+      213: 967119572155392995
+    second: French idle animation v3_7
+  - first:
+      213: -2078576922938041179
+    second: French idle animation v3_8
+  - first:
+      213: 6767535168134504719
+    second: French idle animation v3_9
+  - first:
+      213: -5326963940996199347
+    second: French idle animation v3_10
+  - first:
+      213: 401039396811384548
+    second: French idle animation v3_11
+  - first:
+      213: 555595892438100915
+    second: French idle animation v3_12
+  - first:
+      213: -8539143718879274933
+    second: French idle animation v3_13
+  - first:
+      213: -6748712935942739706
+    second: French idle animation v3_14
+  - first:
+      213: -8083031613510314899
+    second: French idle animation v3_15
+  - first:
+      213: -280746206768585282
+    second: French idle animation v3_16
+  - first:
+      213: -7055159063697533498
+    second: French idle animation v3_17
+  - first:
+      213: -1157087937796958884
+    second: French idle animation v3_18
+  - first:
+      213: 119453205312359075
+    second: French idle animation v3_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: French idle animation v3_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2084
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dcf651627b60040800000000000000
+      internalID: 4613576242483940713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2084
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577bc91548aadeac0800000000000000
+      internalID: -3824213023286053003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_2
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2084
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecf053eb271fc370800000000000000
+      internalID: 8344914111805586658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_3
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 2084
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b510c8a4b826290800000000000000
+      internalID: -7898597644161688785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1572
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d61eb3a8583a7e20800000000000000
+      internalID: 3349051226258806485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1572
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236da0ba4a34086a0800000000000000
+      internalID: -6449080291871238606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_6
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1572
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceee2388016156b0800000000000000
+      internalID: -5309355796504580404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_7
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1572
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e366a97026eb6d00800000000000000
+      internalID: 967119572155392995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1060
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac14f52d496723e0800000000000000
+      internalID: -2078576922938041179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_9
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1060
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ee95216d1bed50800000000000000
+      internalID: 6767535168134504719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_10
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1060
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c4b95e482d216b0800000000000000
+      internalID: -5326963940996199347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_11
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1060
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e621e3e437c09500800000000000000
+      internalID: 401039396811384548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 548
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb607f358fd5b700800000000000000
+      internalID: 555595892438100915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 548
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48513ea70ede7980800000000000000
+      internalID: -8539143718879274933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_14
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 548
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609ac0a4751c752a0800000000000000
+      internalID: -6748712935942739706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_15
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 548
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d641770c29d43df80800000000000000
+      internalID: -8083031613510314899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 36
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb52589ffc69a1cf0800000000000000
+      internalID: -280746206768585282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 36
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c55e6e163a071e90800000000000000
+      internalID: -7055159063697533498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_18
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 36
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5519bda6a231ffe0800000000000000
+      internalID: -1157087937796958884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3_19
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 36
+        width: 390
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaccedae0268a100800000000000000
+      internalID: 119453205312359075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      French idle animation v3_0: 4613576242483940713
+      French idle animation v3_1: -3824213023286053003
+      French idle animation v3_10: -5326963940996199347
+      French idle animation v3_11: 401039396811384548
+      French idle animation v3_12: 555595892438100915
+      French idle animation v3_13: -8539143718879274933
+      French idle animation v3_14: -6748712935942739706
+      French idle animation v3_15: -8083031613510314899
+      French idle animation v3_16: -280746206768585282
+      French idle animation v3_17: -7055159063697533498
+      French idle animation v3_18: -1157087937796958884
+      French idle animation v3_19: 119453205312359075
+      French idle animation v3_2: 8344914111805586658
+      French idle animation v3_3: -7898597644161688785
+      French idle animation v3_4: 3349051226258806485
+      French idle animation v3_5: -6449080291871238606
+      French idle animation v3_6: -5309355796504580404
+      French idle animation v3_7: 967119572155392995
+      French idle animation v3_8: -2078576922938041179
+      French idle animation v3_9: 6767535168134504719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
