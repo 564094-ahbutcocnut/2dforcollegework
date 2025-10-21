@@ -1,77 +1,53 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 5f;        // Horizontal movement speed
-    public float jumpForce = 10f;       // Force applied when jumping
-    public Rigidbody2D rb;              // Reference to Rigidbody2D component
+    [SerializeField] private float speed;
+    private LayerMask groundlayer;
+    private Rigidbody2D body;
+    private Animator anim;
+    private BoxCollider2D boxCollider;
 
-    private float horizontalInput;      // Store horizontal input
-    public bool isGrounded;            // Is the player on the ground?
-    private bool canDoubleJump;         // Can the player perform a double jump?
-
-    public Transform groundCheck;       // Position to check if grounded
-    public float groundCheckRadius = 0.2f; // Radius of ground check circle
-    public LayerMask groundLayer;       // Layer considered as ground
-
-
-
-    void Update()
+    private void Awake()
     {
-        // Get horizontal input (-1 for left, 1 for right)
-        horizontalInput = Input.GetAxisRaw("Horizontal");
-
-        // Flip the player's sprite to face the direction of movement
-        if (horizontalInput < 0)
-        {
-            transform.localScale = new Vector3(-1, 1, 1); // Face left
-        }
-        else if (horizontalInput > 0)
-        {
-            transform.localScale = new Vector3(1, 1, 1); // Face right
-        }
-
-        // Check if the player is on the ground (should happen before jump input)
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-
-        // Jump input
-        if (Input.GetButtonDown("Jump"))
-        {
-            if (isGrounded)
-            {
-                // First jump
-                Jump();
-                canDoubleJump = true; // Enable double jump
-            }
-            else if (canDoubleJump)
-            {
-                // Double jump
-                Jump();
-                canDoubleJump = false; // Use up double jump
-            }
-        }
+        //Grab references for rigidbody and animator from object
+        body = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+        boxCollider = GetComponent<BoxCollider2D>();
     }
 
-    void FixedUpdate()
+    private void Update()
     {
-        // Apply horizontal movement using physics (keeps gravity working properly)
-        rb.linearVelocity = new Vector2(horizontalInput * moveSpeed, rb.linearVelocity.y);
+        float horizontalInput = horizontalInput.GetAxis("Horizontal");
+        body.linearVelocity = new Vector2(horizontalInput * speed, body.linearVelocity.y);
+
+        //Flip player when moving left-right
+        if (horizontalInput > 0.01f)
+            transform.localScale = Vector3.one;
+        else if (horizontalInput < -0.01f)
+            transform.localScale = new Vector3(-1, 1, 1);
+
+        if (Input.GetKey(KeyCode.Space) && isGrounded())
+            Jump();
+
+        //Set animator parameters
+        anim.SetBool("run", horizontalInput != 0);
+        anim.SetBool("grounded", isGrounded());
     }
 
-    void Jump()
+    private void Jump()
     {
-        // Apply vertical velocity for jumping
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        body.linearVelocity = new Vector2(body.linearVelocity.x, speed);
+        anim.SetTrigger("jump");             
     }
 
-    void OnDrawGizmosSelected()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (groundCheck != null)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
-        }
     }
+
+    private bool isGrounded()
+    {
+        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.down, 0.1f, groundLayer);
+            return false;
+    }    
 }
