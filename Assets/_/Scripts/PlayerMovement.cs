@@ -3,22 +3,25 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float speed;
-    private LayerMask groundlayer;
+    public LayerMask groundLayer;
     private Rigidbody2D body;
     private Animator anim;
-    private BoxCollider2D boxCollider;
+    private CapsuleCollider2D boxCollider;
+    public GameManager gameManager; // Reference to the Game Manager script
+
+
 
     private void Awake()
     {
         //Grab references for rigidbody and animator from object
         body = GetComponent<Rigidbody2D>();
-        anim = GetComponent<Animator>();
-        boxCollider = GetComponent<BoxCollider2D>();
+        anim = GetComponentInChildren<Animator>();
+        boxCollider = GetComponent<CapsuleCollider2D>();
     }
 
     private void Update()
     {
-        float horizontalInput = horizontalInput.GetAxis("Horizontal");
+        float horizontalInput = Input.GetAxis("Horizontal");
         body.linearVelocity = new Vector2(horizontalInput * speed, body.linearVelocity.y);
 
         //Flip player when moving left-right
@@ -34,6 +37,18 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("run", horizontalInput != 0);
         anim.SetBool("grounded", isGrounded());
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag == "Coin")
+        {
+            gameManager.coinsCounter += 1;
+            Destroy(other.gameObject);
+            Debug.Log("Player has collected a coin!");
+        }
+    }
+
+
 
     private void Jump()
     {
