@@ -1,0 +1,2183 @@
+fileFormatVersion: 2
+guid: 2dd2c4be6d24fb34392f12840653e2e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1989574568796211998
+    second: French idle animation v3 (1)_0
+  - first:
+      213: 985645216248216371
+    second: French idle animation v3 (1)_1
+  - first:
+      213: 5181219471022112554
+    second: French idle animation v3 (1)_2
+  - first:
+      213: -7078171664878803772
+    second: French idle animation v3 (1)_3
+  - first:
+      213: -2149733896427990606
+    second: French idle animation v3 (1)_4
+  - first:
+      213: 2951282260498547027
+    second: French idle animation v3 (1)_5
+  - first:
+      213: 6482560884530823835
+    second: French idle animation v3 (1)_6
+  - first:
+      213: -8380819673908049761
+    second: French idle animation v3 (1)_7
+  - first:
+      213: 3362215199188589701
+    second: French idle animation v3 (1)_8
+  - first:
+      213: -1395909182206737988
+    second: French idle animation v3 (1)_9
+  - first:
+      213: 5271800309140058146
+    second: French idle animation v3 (1)_10
+  - first:
+      213: 612796092309868461
+    second: French idle animation v3 (1)_11
+  - first:
+      213: -103690447475632140
+    second: French idle animation v3 (1)_12
+  - first:
+      213: 8911865450684454193
+    second: French idle animation v3 (1)_13
+  - first:
+      213: 547535971948031458
+    second: French idle animation v3 (1)_14
+  - first:
+      213: 3416389788909086211
+    second: French idle animation v3 (1)_15
+  - first:
+      213: 565515998294108350
+    second: French idle animation v3 (1)_16
+  - first:
+      213: 6516188413238641895
+    second: French idle animation v3 (1)_17
+  - first:
+      213: -9202121456744718711
+    second: French idle animation v3 (1)_18
+  - first:
+      213: -2564696006953970244
+    second: French idle animation v3 (1)_19
+  - first:
+      213: 9090242869006125204
+    second: French idle animation v3 (1)_20
+  - first:
+      213: -1616560276325098174
+    second: French idle animation v3 (1)_21
+  - first:
+      213: 7528077123722800639
+    second: French idle animation v3 (1)_22
+  - first:
+      213: -8653347308890378065
+    second: French idle animation v3 (1)_23
+  - first:
+      213: -1448208160191896985
+    second: French idle animation v3 (1)_24
+  - first:
+      213: 8906425688677298355
+    second: French idle animation v3 (1)_25
+  - first:
+      213: 1980545481338314157
+    second: French idle animation v3 (1)_26
+  - first:
+      213: 341554696895786072
+    second: French idle animation v3 (1)_27
+  - first:
+      213: 8663786484874669120
+    second: French idle animation v3 (1)_28
+  - first:
+      213: -4924688464825059406
+    second: French idle animation v3 (1)_29
+  - first:
+      213: -8675960636745497714
+    second: French idle animation v3 (1)_30
+  - first:
+      213: -1172020470582260754
+    second: French idle animation v3 (1)_31
+  - first:
+      213: -7048532864140732599
+    second: French idle animation v3 (1)_32
+  - first:
+      213: -7705802722892080646
+    second: French idle animation v3 (1)_33
+  - first:
+      213: -7477100012145255469
+    second: French idle animation v3 (1)_34
+  - first:
+      213: -6195344839315368357
+    second: French idle animation v3 (1)_35
+  - first:
+      213: -284960806138666067
+    second: French idle animation v3 (1)_36
+  - first:
+      213: -1457248847209745274
+    second: French idle animation v3 (1)_37
+  - first:
+      213: -7759098482259200394
+    second: French idle animation v3 (1)_38
+  - first:
+      213: -3290946396192182276
+    second: French idle animation v3 (1)_39
+  - first:
+      213: 5241692923113169969
+    second: French idle animation v3 (1)_40
+  - first:
+      213: -3721106547271713194
+    second: French idle animation v3 (1)_41
+  - first:
+      213: 3163566032724624599
+    second: French idle animation v3 (1)_42
+  - first:
+      213: 4033268248278849195
+    second: French idle animation v3 (1)_43
+  - first:
+      213: 6297576825689275715
+    second: French idle animation v3 (1)_44
+  - first:
+      213: 4704288013843448035
+    second: French idle animation v3 (1)_45
+  - first:
+      213: 5990265515783139639
+    second: French idle animation v3 (1)_46
+  - first:
+      213: -4559470474593562441
+    second: French idle animation v3 (1)_47
+  - first:
+      213: 4431831607003351609
+    second: French idle animation v3 (1)_48
+  - first:
+      213: 7783037495408859570
+    second: French idle animation v3 (1)_49
+  - first:
+      213: 8608350110996558417
+    second: French idle animation v3 (1)_50
+  - first:
+      213: 1009833690245301881
+    second: French idle animation v3 (1)_51
+  - first:
+      213: 6203729618505727954
+    second: French idle animation v3 (1)_52
+  - first:
+      213: 1249743449899145278
+    second: French idle animation v3 (1)_53
+  - first:
+      213: -3812390584986330672
+    second: French idle animation v3 (1)_54
+  - first:
+      213: -51555211449314557
+    second: French idle animation v3 (1)_55
+  - first:
+      213: -2995833721331892564
+    second: French idle animation v3 (1)_56
+  - first:
+      213: -3858378696619043227
+    second: French idle animation v3 (1)_57
+  - first:
+      213: 2428597890134090023
+    second: French idle animation v3 (1)_58
+  - first:
+      213: 8701287101852300399
+    second: French idle animation v3 (1)_59
+  - first:
+      213: -3669483501205712813
+    second: French idle animation v3 (1)_60
+  - first:
+      213: -2840070974589592492
+    second: French idle animation v3 (1)_61
+  - first:
+      213: -2318142408186972874
+    second: French idle animation v3 (1)_62
+  - first:
+      213: -6940445666666525915
+    second: French idle animation v3 (1)_63
+  - first:
+      213: -6892664915942300673
+    second: French idle animation v3 (1)_64
+  - first:
+      213: 7280141830775968114
+    second: French idle animation v3 (1)_65
+  - first:
+      213: -5283244520582330150
+    second: French idle animation v3 (1)_66
+  - first:
+      213: -5787749315014599572
+    second: French idle animation v3 (1)_67
+  - first:
+      213: 2909099735522825185
+    second: French idle animation v3 (1)_68
+  - first:
+      213: -515425966246048405
+    second: French idle animation v3 (1)_69
+  - first:
+      213: -7699277235238892329
+    second: French idle animation v3 (1)_70
+  - first:
+      213: 5573347449520153433
+    second: French idle animation v3 (1)_71
+  - first:
+      213: 8446136049616294270
+    second: French idle animation v3 (1)_72
+  - first:
+      213: -8200048273354605808
+    second: French idle animation v3 (1)_73
+  - first:
+      213: -1216060260364595873
+    second: French idle animation v3 (1)_74
+  - first:
+      213: -5097711410319151993
+    second: French idle animation v3 (1)_75
+  - first:
+      213: 4834474360829946716
+    second: French idle animation v3 (1)_76
+  - first:
+      213: 3105146238370179494
+    second: French idle animation v3 (1)_77
+  - first:
+      213: -6633415784215919596
+    second: French idle animation v3 (1)_78
+  - first:
+      213: -9133201301308362237
+    second: French idle animation v3 (1)_79
+  - first:
+      213: -2734253426644519901
+    second: French idle animation v3 (1)_80
+  - first:
+      213: -916531792806928832
+    second: French idle animation v3 (1)_81
+  - first:
+      213: -2611357875963433876
+    second: French idle animation v3 (1)_82
+  - first:
+      213: -8446737846349761045
+    second: French idle animation v3 (1)_83
+  - first:
+      213: 3678479901853549088
+    second: French idle animation v3 (1)_84
+  - first:
+      213: -4667653759287022139
+    second: French idle animation v3 (1)_85
+  - first:
+      213: 2763975108297332240
+    second: French idle animation v3 (1)_86
+  - first:
+      213: -3434804358055747590
+    second: French idle animation v3 (1)_87
+  - first:
+      213: 1406403106876535106
+    second: French idle animation v3 (1)_88
+  - first:
+      213: 6642391860861423384
+    second: French idle animation v3 (1)_89
+  - first:
+      213: 6885824033884819801
+    second: French idle animation v3 (1)_90
+  - first:
+      213: -2397317858758917593
+    second: French idle animation v3 (1)_91
+  - first:
+      213: -4024981187105229420
+    second: French idle animation v3 (1)_92
+  - first:
+      213: -7007896051938666945
+    second: French idle animation v3 (1)_93
+  - first:
+      213: -4542040561680657039
+    second: French idle animation v3 (1)_94
+  - first:
+      213: -2113645373953458236
+    second: French idle animation v3 (1)_95
+  - first:
+      213: -5430256976799005088
+    second: French idle animation v3 (1)_96
+  - first:
+      213: -2078212553235030621
+    second: French idle animation v3 (1)_97
+  - first:
+      213: -8358154739389994502
+    second: French idle animation v3 (1)_98
+  - first:
+      213: 1850642943048767536
+    second: French idle animation v3 (1)_99
+  - first:
+      213: -4144613283122577934
+    second: French idle animation v3 (1)_100
+  - first:
+      213: 1919667053544762937
+    second: French idle animation v3 (1)_101
+  - first:
+      213: 6621345384700833941
+    second: French idle animation v3 (1)_102
+  - first:
+      213: 6995054930333058333
+    second: French idle animation v3 (1)_103
+  - first:
+      213: -2555996684518017734
+    second: French idle animation v3 (1)_104
+  - first:
+      213: -2312516484879442269
+    second: French idle animation v3 (1)_105
+  - first:
+      213: -6275226470133194093
+    second: French idle animation v3 (1)_106
+  - first:
+      213: 1423270244293484554
+    second: French idle animation v3 (1)_107
+  - first:
+      213: -3298647652053795671
+    second: French idle animation v3 (1)_108
+  - first:
+      213: -3397202776857562825
+    second: French idle animation v3 (1)_109
+  - first:
+      213: 3576369926301585339
+    second: French idle animation v3 (1)_110
+  - first:
+      213: -6365223777096796446
+    second: French idle animation v3 (1)_111
+  - first:
+      213: 2545304513140233312
+    second: French idle animation v3 (1)_112
+  - first:
+      213: 1882500435249777104
+    second: French idle animation v3 (1)_113
+  - first:
+      213: -8072362058507295970
+    second: French idle animation v3 (1)_114
+  - first:
+      213: -2222720254900263517
+    second: French idle animation v3 (1)_115
+  - first:
+      213: -1090956889412303146
+    second: French idle animation v3 (1)_116
+  - first:
+      213: 6879581274976406026
+    second: French idle animation v3 (1)_117
+  - first:
+      213: 8813529352002611069
+    second: French idle animation v3 (1)_118
+  - first:
+      213: -531082641163597168
+    second: French idle animation v3 (1)_119
+  - first:
+      213: -4344159467216805644
+    second: French idle animation v3 (1)_120
+  - first:
+      213: -4979228767768728669
+    second: French idle animation v3 (1)_121
+  - first:
+      213: 5899507111500268136
+    second: French idle animation v3 (1)_122
+  - first:
+      213: -5228368259894740856
+    second: French idle animation v3 (1)_123
+  - first:
+      213: 1077630528651887676
+    second: French idle animation v3 (1)_124
+  - first:
+      213: -4281235251958916299
+    second: French idle animation v3 (1)_125
+  - first:
+      213: -4417323094714555704
+    second: French idle animation v3 (1)_126
+  - first:
+      213: -3375995987337850740
+    second: French idle animation v3 (1)_127
+  - first:
+      213: 4040496913371575969
+    second: French idle animation v3 (1)_128
+  - first:
+      213: 5058694518512340793
+    second: French idle animation v3 (1)_129
+  - first:
+      213: 1315536087026339450
+    second: French idle animation v3 (1)_130
+  - first:
+      213: 8856764186290259273
+    second: French idle animation v3 (1)_131
+  - first:
+      213: -7031362615472775317
+    second: French idle animation v3 (1)_132
+  - first:
+      213: 1092757882308296296
+    second: French idle animation v3 (1)_133
+  - first:
+      213: -4682562265009388882
+    second: French idle animation v3 (1)_134
+  - first:
+      213: -4526420727678243704
+    second: French idle animation v3 (1)_135
+  - first:
+      213: 8530727166847121356
+    second: French idle animation v3 (1)_136
+  - first:
+      213: 5964454004748319037
+    second: French idle animation v3 (1)_137
+  - first:
+      213: -7717449533239147761
+    second: French idle animation v3 (1)_138
+  - first:
+      213: 8761488667854538464
+    second: French idle animation v3 (1)_139
+  - first:
+      213: 7189477933646000432
+    second: French idle animation v3 (1)_140
+  - first:
+      213: -6198687467673180131
+    second: French idle animation v3 (1)_141
+  - first:
+      213: 6092440100182131347
+    second: French idle animation v3 (1)_142
+  - first:
+      213: -9073106263426536338
+    second: French idle animation v3 (1)_143
+  - first:
+      213: 4650715469837040029
+    second: French idle animation v3 (1)_144
+  - first:
+      213: -793936991641425652
+    second: French idle animation v3 (1)_145
+  - first:
+      213: -3548671367638175105
+    second: French idle animation v3 (1)_146
+  - first:
+      213: 8182247364804249159
+    second: French idle animation v3 (1)_147
+  - first:
+      213: 3441790878258763276
+    second: French idle animation v3 (1)_148
+  - first:
+      213: 5250108172306544663
+    second: French idle animation v3 (1)_149
+  - first:
+      213: 6615088541490135994
+    second: French idle animation v3 (1)_150
+  - first:
+      213: -7093980424009352277
+    second: French idle animation v3 (1)_151
+  - first:
+      213: -8529267212711663360
+    second: French idle animation v3 (1)_152
+  - first:
+      213: -7307425415637710727
+    second: French idle animation v3 (1)_153
+  - first:
+      213: -4052132434352318590
+    second: French idle animation v3 (1)_154
+  - first:
+      213: -4078427879433315621
+    second: French idle animation v3 (1)_155
+  - first:
+      213: -3961600207749038561
+    second: French idle animation v3 (1)_156
+  - first:
+      213: -7537397816255368243
+    second: French idle animation v3 (1)_157
+  - first:
+      213: -6291241586590592341
+    second: French idle animation v3 (1)_158
+  - first:
+      213: -8099328509895139842
+    second: French idle animation v3 (1)_159
+  - first:
+      213: -7417219616888352551
+    second: French idle animation v3 (1)_160
+  - first:
+      213: 2492081684054349698
+    second: French idle animation v3 (1)_161
+  - first:
+      213: -5468752827045478121
+    second: French idle animation v3 (1)_162
+  - first:
+      213: 7955044292413086861
+    second: French idle animation v3 (1)_163
+  - first:
+      213: -4362230079760509779
+    second: French idle animation v3 (1)_164
+  - first:
+      213: -5683641480815277550
+    second: French idle animation v3 (1)_165
+  - first:
+      213: -6231054702499886826
+    second: French idle animation v3 (1)_166
+  - first:
+      213: -7292759939595316572
+    second: French idle animation v3 (1)_167
+  - first:
+      213: -7855703161473994490
+    second: French idle animation v3 (1)_168
+  - first:
+      213: 4964883879478691019
+    second: French idle animation v3 (1)_169
+  - first:
+      213: -8621919953178311547
+    second: French idle animation v3 (1)_170
+  - first:
+      213: 5359108835591189633
+    second: French idle animation v3 (1)_171
+  - first:
+      213: -5819892808375389283
+    second: French idle animation v3 (1)_172
+  - first:
+      213: -2375257521859373001
+    second: French idle animation v3 (1)_173
+  - first:
+      213: 3690347226724637136
+    second: French idle animation v3 (1)_174
+  - first:
+      213: 830572698156120980
+    second: French idle animation v3 (1)_175
+  - first:
+      213: -2023965681075332382
+    second: French idle animation v3 (1)_176
+  - first:
+      213: -8126545766412118240
+    second: French idle animation v3 (1)_177
+  - first:
+      213: 4918417818021897065
+    second: French idle animation v3 (1)_178
+  - first:
+      213: -5200385048507167711
+    second: French idle animation v3 (1)_179
+  - first:
+      213: 6976884233925986684
+    second: French idle animation v3 (1)_180
+  - first:
+      213: 7863385576620461077
+    second: French idle animation v3 (1)_181
+  - first:
+      213: -7199376709327957974
+    second: French idle animation v3 (1)_182
+  - first:
+      213: -8261561554030305369
+    second: French idle animation v3 (1)_183
+  - first:
+      213: 6841785429977618626
+    second: French idle animation v3 (1)_184
+  - first:
+      213: 5007546927320525048
+    second: French idle animation v3 (1)_185
+  - first:
+      213: 5559797294771381337
+    second: French idle animation v3 (1)_186
+  - first:
+      213: 2960324509620663861
+    second: French idle animation v3 (1)_187
+  - first:
+      213: 1290874641174006335
+    second: French idle animation v3 (1)_188
+  - first:
+      213: -784248321177274282
+    second: French idle animation v3 (1)_189
+  - first:
+      213: 637044463557513541
+    second: French idle animation v3 (1)_190
+  - first:
+      213: -706224666843392662
+    second: French idle animation v3 (1)_191
+  - first:
+      213: 986841343139356686
+    second: French idle animation v3 (1)_192
+  - first:
+      213: 6300165052644732084
+    second: French idle animation v3 (1)_193
+  - first:
+      213: 3803909253010913282
+    second: French idle animation v3 (1)_194
+  - first:
+      213: -3002010274691931972
+    second: French idle animation v3 (1)_195
+  - first:
+      213: -2381055076894891859
+    second: French idle animation v3 (1)_196
+  - first:
+      213: 3559789217101196949
+    second: French idle animation v3 (1)_197
+  - first:
+      213: 4435907140143669467
+    second: French idle animation v3 (1)_198
+  - first:
+      213: 5484792640669802788
+    second: French idle animation v3 (1)_199
+  - first:
+      213: -370237147286127317
+    second: French idle animation v3 (1)_200
+  - first:
+      213: -7781266572974312663
+    second: French idle animation v3 (1)_201
+  - first:
+      213: 2812666554722865449
+    second: French idle animation v3 (1)_202
+  - first:
+      213: 4351286679531852579
+    second: French idle animation v3 (1)_203
+  - first:
+      213: 4336681536889220439
+    second: French idle animation v3 (1)_204
+  - first:
+      213: -2497512348130715023
+    second: French idle animation v3 (1)_205
+  - first:
+      213: -7483481547372284634
+    second: French idle animation v3 (1)_206
+  - first:
+      213: -5696642760611094909
+    second: French idle animation v3 (1)_207
+  - first:
+      213: 403483101404934686
+    second: French idle animation v3 (1)_208
+  - first:
+      213: -6999283844822457180
+    second: French idle animation v3 (1)_209
+  - first:
+      213: -8539564979799002718
+    second: French idle animation v3 (1)_210
+  - first:
+      213: -2313494853966359663
+    second: French idle animation v3 (1)_211
+  - first:
+      213: 7352305393242129737
+    second: French idle animation v3 (1)_212
+  - first:
+      213: -6569930468598391576
+    second: French idle animation v3 (1)_213
+  - first:
+      213: -7071205204428257308
+    second: French idle animation v3 (1)_214
+  - first:
+      213: -3143391319584348193
+    second: French idle animation v3 (1)_215
+  - first:
+      213: 8355199861264989934
+    second: French idle animation v3 (1)_216
+  - first:
+      213: 8109800948709932563
+    second: French idle animation v3 (1)_217
+  - first:
+      213: 1353093705143552627
+    second: French idle animation v3 (1)_218
+  - first:
+      213: 3605878667341406383
+    second: French idle animation v3 (1)_219
+  - first:
+      213: -3975637180933545363
+    second: French idle animation v3 (1)_220
+  - first:
+      213: 207018695616064958
+    second: French idle animation v3 (1)_221
+  - first:
+      213: -3610712023472831864
+    second: French idle animation v3 (1)_222
+  - first:
+      213: 1376256485019315588
+    second: French idle animation v3 (1)_223
+  - first:
+      213: -5750986988523360641
+    second: French idle animation v3 (1)_224
+  - first:
+      213: 3531081327354983963
+    second: French idle animation v3 (1)_225
+  - first:
+      213: 7267213370816333407
+    second: French idle animation v3 (1)_226
+  - first:
+      213: -6098340059894722526
+    second: French idle animation v3 (1)_227
+  - first:
+      213: 3847777360331352120
+    second: French idle animation v3 (1)_228
+  - first:
+      213: -5419693924864705748
+    second: French idle animation v3 (1)_229
+  - first:
+      213: -384682041628105369
+    second: French idle animation v3 (1)_230
+  - first:
+      213: -4853646999495500104
+    second: French idle animation v3 (1)_231
+  - first:
+      213: 1573158479404024385
+    second: French idle animation v3 (1)_232
+  - first:
+      213: -8083250052863854767
+    second: French idle animation v3 (1)_233
+  - first:
+      213: 9014874095943207047
+    second: French idle animation v3 (1)_234
+  - first:
+      213: 7006839694230099838
+    second: French idle animation v3 (1)_235
+  - first:
+      213: -3305017029964079009
+    second: French idle animation v3 (1)_236
+  - first:
+      213: -4580596015510835139
+    second: French idle animation v3 (1)_237
+  - first:
+      213: -4791845784424943215
+    second: French idle animation v3 (1)_238
+  - first:
+      213: 6025477475790628578
+    second: French idle animation v3 (1)_239
+  - first:
+      213: 1762031110505624468
+    second: French idle animation v3 (1)_240
+  - first:
+      213: 2665423547673016989
+    second: French idle animation v3 (1)_241
+  - first:
+      213: -7132960107182647904
+    second: French idle animation v3 (1)_242
+  - first:
+      213: -1062837280076145590
+    second: French idle animation v3 (1)_243
+  - first:
+      213: 1770217606073894692
+    second: French idle animation v3 (1)_244
+  - first:
+      213: 7625980248521888953
+    second: French idle animation v3 (1)_245
+  - first:
+      213: -5591009688115028736
+    second: French idle animation v3 (1)_246
+  - first:
+      213: 3978958658606319849
+    second: French idle animation v3 (1)_247
+  - first:
+      213: 889253575634166261
+    second: French idle animation v3 (1)_248
+  - first:
+      213: 8300354349640291648
+    second: French idle animation v3 (1)_249
+  - first:
+      213: 8673083478768247301
+    second: French idle animation v3 (1)_250
+  - first:
+      213: -3672608994573078473
+    second: French idle animation v3 (1)_251
+  - first:
+      213: 8195026500489843634
+    second: French idle animation v3 (1)_252
+  - first:
+      213: 8761087883095316878
+    second: French idle animation v3 (1)_253
+  - first:
+      213: -3110375291966550885
+    second: French idle animation v3 (1)_254
+  - first:
+      213: -6401975967950257424
+    second: French idle animation v3 (1)_255
+  - first:
+      213: 7476481161777702933
+    second: French idle animation v3 (1)_256
+  - first:
+      213: -2763953695011640865
+    second: French idle animation v3 (1)_257
+  - first:
+      213: -8067590474617083440
+    second: French idle animation v3 (1)_258
+  - first:
+      213: 7886322682423260143
+    second: French idle animation v3 (1)_259
+  - first:
+      213: 5540472011166535875
+    second: French idle animation v3 (1)_260
+  - first:
+      213: -442972773313698017
+    second: French idle animation v3 (1)_261
+  - first:
+      213: -8769715902138485065
+    second: French idle animation v3 (1)_262
+  - first:
+      213: -4561900490332511722
+    second: French idle animation v3 (1)_263
+  - first:
+      213: 2932814482408940779
+    second: French idle animation v3 (1)_264
+  - first:
+      213: 2226117268559283031
+    second: French idle animation v3 (1)_265
+  - first:
+      213: -2292021369940232858
+    second: French idle animation v3 (1)_266
+  - first:
+      213: 8909301648496318583
+    second: French idle animation v3 (1)_267
+  - first:
+      213: 2691120963409995314
+    second: French idle animation v3 (1)_268
+  - first:
+      213: -533928558026804111
+    second: French idle animation v3 (1)_269
+  - first:
+      213: -8063936758225585901
+    second: French idle animation v3 (1)_270
+  - first:
+      213: 2677834575556275255
+    second: French idle animation v3 (1)_271
+  - first:
+      213: -2503948800044350486
+    second: French idle animation v3 (1)_272
+  - first:
+      213: 3608820603305658709
+    second: French idle animation v3 (1)_273
+  - first:
+      213: -4094740558413545019
+    second: French idle animation v3 (1)_274
+  - first:
+      213: 7154008914574019240
+    second: French idle animation v3 (1)_275
+  - first:
+      213: 6332502931549288565
+    second: French idle animation v3 (1)_276
+  - first:
+      213: -209389522408216963
+    second: French idle animation v3 (1)_277
+  - first:
+      213: -1830793910489111505
+    second: French idle animation v3 (1)_278
+  - first:
+      213: 5005250261519956037
+    second: French idle animation v3 (1)_279
+  - first:
+      213: 8648782465376763523
+    second: French idle animation v3 (1)_280
+  - first:
+      213: -3504505008332199645
+    second: French idle animation v3 (1)_281
+  - first:
+      213: -253144854075103074
+    second: French idle animation v3 (1)_282
+  - first:
+      213: -3728999362233005601
+    second: French idle animation v3 (1)_283
+  - first:
+      213: -1013085914168849633
+    second: French idle animation v3 (1)_284
+  - first:
+      213: 7550021685611401681
+    second: French idle animation v3 (1)_285
+  - first:
+      213: 1865777532120146511
+    second: French idle animation v3 (1)_286
+  - first:
+      213: -5629811853052000825
+    second: French idle animation v3 (1)_287
+  - first:
+      213: 2414882893618785222
+    second: French idle animation v3 (1)_288
+  - first:
+      213: 2211984175823070832
+    second: French idle animation v3 (1)_289
+  - first:
+      213: 1483043782246357195
+    second: French idle animation v3 (1)_290
+  - first:
+      213: 6441703052333210088
+    second: French idle animation v3 (1)_291
+  - first:
+      213: 6947163314142941534
+    second: French idle animation v3 (1)_292
+  - first:
+      213: -5063782059593849358
+    second: French idle animation v3 (1)_293
+  - first:
+      213: 5503412986531372150
+    second: French idle animation v3 (1)_294
+  - first:
+      213: 5383405730079733889
+    second: French idle animation v3 (1)_295
+  - first:
+      213: 5361546745941732675
+    second: French idle animation v3 (1)_296
+  - first:
+      213: -8656051479595440818
+    second: French idle animation v3 (1)_297
+  - first:
+      213: -5231034536870007664
+    second: French idle animation v3 (1)_298
+  - first:
+      213: 5605782211959730192
+    second: French idle animation v3 (1)_299
+  - first:
+      213: 5753275159366592941
+    second: French idle animation v3 (1)_300
+  - first:
+      213: -6958738276142482243
+    second: French idle animation v3 (1)_301
+  - first:
+      213: 7928810630547734139
+    second: French idle animation v3 (1)_302
+  - first:
+      213: 7347252732033195889
+    second: French idle animation v3 (1)_303
+  - first:
+      213: -2788259063590589539
+    second: French idle animation v3 (1)_304
+  - first:
+      213: -4383213886359988908
+    second: French idle animation v3 (1)_305
+  - first:
+      213: -8692028475230634323
+    second: French idle animation v3 (1)_306
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e430cc887c9364e0800000000000000
+      internalID: -1989574568796211998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb90d1a17bdad00800000000000000
+      internalID: 985645216248216371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f3c9958a367e740800000000000000
+      internalID: 5181219471022112554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e9af5f5845cd90800000000000000
+      internalID: -7078171664878803772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b11bc5396c9a22e0800000000000000
+      internalID: -2149733896427990606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3518de0549f05f820800000000000000
+      internalID: 2951282260498547027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b924d4547cea6f950800000000000000
+      internalID: 6482560884530823835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f980b1af8e851bb80800000000000000
+      internalID: -8380819673908049761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c1e0ee8ecf8ae20800000000000000
+      internalID: 3362215199188589701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb18cdf9efbb0ace0800000000000000
+      internalID: -1395909182206737988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22076113372392940800000000000000
+      internalID: 5271800309140058146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf80e99cc6118800800000000000000
+      internalID: 612796092309868461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f71d9f561e9f8ef0800000000000000
+      internalID: -103690447475632140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1359f1a096e4dab70800000000000000
+      internalID: 8911865450684454193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ede5b5c01d399700800000000000000
+      internalID: 547535971948031458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306a2368964796f20800000000000000
+      internalID: 3416389788909086211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ee11edcd19d700800000000000000
+      internalID: 565515998294108350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e40b9c66d62e6a50800000000000000
+      internalID: 6516188413238641895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e1bbe3a4f7b4080800000000000000
+      internalID: -9202121456744718711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb555ace19e586cd0800000000000000
+      internalID: -2564696006953970244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49843292ab7072e70800000000000000
+      internalID: 9090242869006125204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d92ab5ef2d099e0800000000000000
+      internalID: -1616560276325098174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffded31324a197860800000000000000
+      internalID: 7528077123722800639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b18f487229e780800000000000000
+      internalID: -8653347308890378065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762a0fae95ee6ebe0800000000000000
+      internalID: -1448208160191896985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b03600c9faf99b70800000000000000
+      internalID: 8906425688677298355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daddca43f9f4c7b10800000000000000
+      internalID: 1980545481338314157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ce6dbef227db400800000000000000
+      internalID: 341554696895786072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce8c0c7e3fb3870800000000000000
+      internalID: 8663786484874669120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b773a0feedf7abb0800000000000000
+      internalID: -4924688464825059406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e834381a4cbc89780800000000000000
+      internalID: -8675960636745497714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb457577952cbfe0800000000000000
+      internalID: -1172020470582260754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947993d64b49e2e90800000000000000
+      internalID: -7048532864140732599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af997c8204d7f0590800000000000000
+      internalID: -7705802722892080646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db530287210c3890800000000000000
+      internalID: -7477100012145255469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56de8761b6b50aa0800000000000000
+      internalID: -6195344839315368357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3223718ad9b0cf0800000000000000
+      internalID: -284960806138666067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68437b0f4efc6cbe0800000000000000
+      internalID: -1457248847209745274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676faa33a05225490800000000000000
+      internalID: -7759098482259200394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffec1850b53452d0800000000000000
+      internalID: -3290946396192182276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e6df11fb3eb840800000000000000
+      internalID: 5241692923113169969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3d7e7f49fb5cc0800000000000000
+      internalID: -3721106547271713194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d40b04ab8e37eb20800000000000000
+      internalID: 3163566032724624599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6d5864a1c09f730800000000000000
+      internalID: 4033268248278849195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34df0f8c1cc756750800000000000000
+      internalID: 6297576825689275715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e04442360df84140800000000000000
+      internalID: 4704288013843448035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731b682bfb2b12350800000000000000
+      internalID: 5990265515783139639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: French idle animation v3 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b018fda2c189b0c0800000000000000
+      internalID: -4559470474593562441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 860bb4081f941ba4b8113826a8577437
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      French idle animation v3 (1)_0: -1989574568796211998
+      French idle animation v3 (1)_1: 985645216248216371
+      French idle animation v3 (1)_10: 5271800309140058146
+      French idle animation v3 (1)_11: 612796092309868461
+      French idle animation v3 (1)_12: -103690447475632140
+      French idle animation v3 (1)_13: 8911865450684454193
+      French idle animation v3 (1)_14: 547535971948031458
+      French idle animation v3 (1)_15: 3416389788909086211
+      French idle animation v3 (1)_16: 565515998294108350
+      French idle animation v3 (1)_17: 6516188413238641895
+      French idle animation v3 (1)_18: -9202121456744718711
+      French idle animation v3 (1)_19: -2564696006953970244
+      French idle animation v3 (1)_2: 5181219471022112554
+      French idle animation v3 (1)_20: 9090242869006125204
+      French idle animation v3 (1)_21: -1616560276325098174
+      French idle animation v3 (1)_22: 7528077123722800639
+      French idle animation v3 (1)_23: -8653347308890378065
+      French idle animation v3 (1)_24: -1448208160191896985
+      French idle animation v3 (1)_25: 8906425688677298355
+      French idle animation v3 (1)_26: 1980545481338314157
+      French idle animation v3 (1)_27: 341554696895786072
+      French idle animation v3 (1)_28: 8663786484874669120
+      French idle animation v3 (1)_29: -4924688464825059406
+      French idle animation v3 (1)_3: -7078171664878803772
+      French idle animation v3 (1)_30: -8675960636745497714
+      French idle animation v3 (1)_31: -1172020470582260754
+      French idle animation v3 (1)_32: -7048532864140732599
+      French idle animation v3 (1)_33: -7705802722892080646
+      French idle animation v3 (1)_34: -7477100012145255469
+      French idle animation v3 (1)_35: -6195344839315368357
+      French idle animation v3 (1)_36: -284960806138666067
+      French idle animation v3 (1)_37: -1457248847209745274
+      French idle animation v3 (1)_38: -7759098482259200394
+      French idle animation v3 (1)_39: -3290946396192182276
+      French idle animation v3 (1)_4: -2149733896427990606
+      French idle animation v3 (1)_40: 5241692923113169969
+      French idle animation v3 (1)_41: -3721106547271713194
+      French idle animation v3 (1)_42: 3163566032724624599
+      French idle animation v3 (1)_43: 4033268248278849195
+      French idle animation v3 (1)_44: 6297576825689275715
+      French idle animation v3 (1)_45: 4704288013843448035
+      French idle animation v3 (1)_46: 5990265515783139639
+      French idle animation v3 (1)_47: -4559470474593562441
+      French idle animation v3 (1)_5: 2951282260498547027
+      French idle animation v3 (1)_6: 6482560884530823835
+      French idle animation v3 (1)_7: -8380819673908049761
+      French idle animation v3 (1)_8: 3362215199188589701
+      French idle animation v3 (1)_9: -1395909182206737988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

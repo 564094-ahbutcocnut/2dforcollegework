@@ -1,14 +1,26 @@
+using UnityEditor;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float speed;
-    public LayerMask groundLayer;
+    [SerializeField] public LayerMask groundLayer;
+    [SerializeField] public LayerMask wallLayer;
     private Rigidbody2D body;
     private Animator anim;
-    private CapsuleCollider2D boxCollider;
+    private CapsuleCollider2D capsuleCollider;
+    private float wallJumpCooldown;
     public GameManager gameManager; // Reference to the Game Manager script
+    public bool deathState = false; // Set default death state to false
 
+
+    private SpriteRenderer spritegraphic;
+
+
+    void Start()
+    {
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
+    }
 
 
     private void Awake()
@@ -16,7 +28,9 @@ public class PlayerMovement : MonoBehaviour
         //Grab references for rigidbody and animator from object
         body = GetComponent<Rigidbody2D>();
         anim = GetComponentInChildren<Animator>();
-        boxCollider = GetComponent<CapsuleCollider2D>();
+        capsuleCollider = GetComponent<CapsuleCollider2D>();
+
+        spritegraphic = GetComponentInChildren<SpriteRenderer>();
     }
 
     private void Update()
@@ -26,16 +40,33 @@ public class PlayerMovement : MonoBehaviour
 
         //Flip player when moving left-right
         if (horizontalInput > 0.01f)
-            transform.localScale = Vector3.one;
-        else if (horizontalInput < -0.01f)
-            transform.localScale = new Vector3(-1, 1, 1);
+            spritegraphic.flipX = false;
 
-        if (Input.GetKey(KeyCode.Space) && isGrounded())
-            Jump();
+            //transform.localScale = Vector3.one;
+        else if (horizontalInput < -0.01f)
+            spritegraphic.flipX = true;
+            //transform.localScale = new Vector3(-1, 1, 1);
+
 
         //Set animator parameters
         anim.SetBool("run", horizontalInput != 0);
         anim.SetBool("grounded", isGrounded());
+
+        //Wall Jump logic
+        if(wallJumpCooldown < 0.2f)
+        {
+
+            if (Input.GetKey(KeyCode.Space) && isGrounded())
+                Jump();
+
+            body.linearVelocity = new Vector2(horizontalInput * speed, body.linearVelocity.y);
+
+            if(onWall() && !isGrounded())
+            {
+                body.gravityScale = 0;
+                body.linearVelocity = Vector2.zero;
+            }
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -46,6 +77,21 @@ public class PlayerMovement : MonoBehaviour
             Destroy(other.gameObject);
             Debug.Log("Player has collected a coin!");
         }
+       
+        if (other.gameObject.tag == "Finish")
+        {
+            // Game will reload in 3 seconds
+            gameManager.Invoke("ReloadLevel", 3);
+        }
+        if (other.gameObject.tag == "Finish")
+        {
+            // Game will reload in 3 seconds
+            gameManager.Invoke("EndGame", 3);
+        }
+
+
+
+
     }
 
 
@@ -62,7 +108,13 @@ public class PlayerMovement : MonoBehaviour
 
     private bool isGrounded()
     {
-        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, Vector2.down, 0.1f, groundLayer);
-            return false;
-    }    
+        RaycastHit2D raycastHit = Physics2D.BoxCast(capsuleCollider.bounds.center, capsuleCollider.bounds.size, 0, Vector2.down, 0.1f, groundLayer);
+            return raycastHit.collider != null;
+    }
+    private bool onWall()
+    {
+        RaycastHit2D raycastHit = Physics2D.BoxCast(capsuleCollider.bounds.center, capsuleCollider.bounds.size, 0, new Vector2(transform.localScale.x, 0), 0.1f, wallLayer);
+        return raycastHit.collider != null;
+    }
+
 }
