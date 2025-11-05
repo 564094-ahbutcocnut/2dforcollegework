@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] public LayerMask wallLayer;
     private Rigidbody2D body;
     private Animator anim;
-    private CapsuleCollider2D capsuleCollider;
+    private BoxCollider2D boxCollider2D;
     private float wallJumpCooldown;
     public GameManager gameManager; // Reference to the Game Manager script
     public bool deathState = false; // Set default death state to false
@@ -28,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
         //Grab references for rigidbody and animator from object
         body = GetComponent<Rigidbody2D>();
         anim = GetComponentInChildren<Animator>();
-        capsuleCollider = GetComponent<CapsuleCollider2D>();
+        boxCollider2D = GetComponent<BoxCollider2D>();
 
         spritegraphic = GetComponentInChildren<SpriteRenderer>();
     }
@@ -108,12 +108,12 @@ public class PlayerMovement : MonoBehaviour
 
     private bool isGrounded()
     {
-        RaycastHit2D raycastHit = Physics2D.BoxCast(capsuleCollider.bounds.center, capsuleCollider.bounds.size, 0, Vector2.down, 0.1f, groundLayer);
+        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider2D.bounds.center, boxCollider2D.bounds.size, 0, Vector2.down, 0.1f, groundLayer);
             return raycastHit.collider != null;
     }
     private bool onWall()
     {
-        RaycastHit2D raycastHit = Physics2D.BoxCast(capsuleCollider.bounds.center, capsuleCollider.bounds.size, 0, new Vector2(transform.localScale.x, 0), 0.1f, wallLayer);
+        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider2D.bounds.center, boxCollider2D.bounds.size, 0, new Vector2(transform.localScale.x, 0), 0.1f, wallLayer);
         return raycastHit.collider != null;
     }
 
