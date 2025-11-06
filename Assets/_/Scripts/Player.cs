@@ -33,10 +33,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         // Press keys to test
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            healthSystem.TakeDamage(20);
-        }
+       
 
         if (Input.GetKeyDown(KeyCode.H))
         {
