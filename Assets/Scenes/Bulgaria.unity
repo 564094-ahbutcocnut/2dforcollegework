@@ -119,6 +119,76 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &6667232 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+  m_PrefabInstance: {fileID: 36744920}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &36744920
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 894198963}
+    m_Modifications:
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.17749
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.28706002
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3849879188343817411, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4205736768427103243, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4205736768427103243, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: TriggerModule.enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6904465759473656332, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
+      propertyPath: m_Name
+      value: FeelDuckDust
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 580ca198f0447074e9f88af28723c37f, type: 3}
 --- !u!1 &93845208
 GameObject:
   m_ObjectHideFlags: 0
@@ -1203,6 +1273,55 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6460231774097217615, guid: 33d2480143c81004ba263c95de15bc23, type: 3}
   m_PrefabInstance: {fileID: 4494619685299739826}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &472097512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 472097514}
+  - component: {fileID: 472097513}
+  m_Layer: 0
+  m_Name: Global Volume
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &472097513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 472097512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Core.Runtime::UnityEngine.Rendering.Volume
+  m_IsGlobal: 1
+  priority: 0
+  blendDistance: 0
+  weight: 1
+  sharedProfile: {fileID: 11400000, guid: d45811767d735e2499be7d622901abb1, type: 2}
+--- !u!4 &472097514
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 472097512}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1163.0956, y: 330.8794, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &490089219
 GameObject:
   m_ObjectHideFlags: 0
@@ -1330,7 +1449,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -21095,7 +21214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7cc8733a39e4b0147ae11b0701892491, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EndLevelDeath
-  nextSceneName: DeathScreen
+  nextSceneName: Bulgaria death screen
   displayMessage: {fileID: 1516142045}
   showMessage: 
 --- !u!1 &1580862502
@@ -36639,7 +36758,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 2756838382562115829, guid: a1b15042c9dd60e41a312843c9cf1155, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6667232}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 5223435089570211192, guid: a1b15042c9dd60e41a312843c9cf1155, type: 3}
       insertIndex: -1
@@ -36792,3 +36914,4 @@ SceneRoots:
   - {fileID: 244650386}
   - {fileID: 1230086238}
   - {fileID: 1286305791}
+  - {fileID: 472097514}

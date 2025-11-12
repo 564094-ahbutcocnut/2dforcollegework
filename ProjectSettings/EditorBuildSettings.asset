@@ -14,15 +14,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Endscreen.unity
     guid: 0e07f7b13b20aeb47941c90043e020d9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level 2.unity
     guid: 7ef250bb0c12a3644ad49506b6c072a5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level 3.unity
     guid: 512d81eb5b4f5bc49bd92f8f113dac80
   - enabled: 1
-    path: Assets/Scenes/DeathScreen.unity
+    path: Assets/Scenes/German death screen.unity
     guid: 234c087b94ce1864d9ad54eba03ec2fb
+  - enabled: 1
+    path: Assets/Scenes/Bulgaria death screen.unity
+    guid: 0d04871d7748d7f4592a9aaacb6dd82a
+  - enabled: 1
+    path: Assets/Scenes/Ottoman death screen.unity
+    guid: c74974dd2695be0488d6b68a584e5765
+  - enabled: 1
+    path: Assets/Scenes/Ottoman  empire.unity
+    guid: c274a263c3919dc4ab2e04d162a4692e
+  - enabled: 1
+    path: Assets/Scenes/Ukraine.unity
+    guid: 6bbdc6a799659a84da86dc4f5ea3fc3e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
