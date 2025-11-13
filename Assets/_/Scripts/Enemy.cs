@@ -4,6 +4,7 @@ public class Enemy : MonoBehaviour
 {
     [SerializeField] private HealthSystem healthSystem;
         public int startingHealth = 50;
+    public int maxHealth = 50;
 
     public int contactDamage = 10;
 
@@ -13,7 +14,7 @@ public class Enemy : MonoBehaviour
     void Start()
     {
         // Enemy starts with less health
-        healthSystem = new HealthSystem(startingHealth);
+        healthSystem = new HealthSystem(maxHealth, startingHealth);
     }
 
     public void AttackPlayer(Player player)

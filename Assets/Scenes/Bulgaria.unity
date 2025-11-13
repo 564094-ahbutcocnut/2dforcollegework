@@ -406,7 +406,7 @@ MonoBehaviour:
     maxHealth: 0
     currentHealth: 0
   startingHealth: 50
-  contactDamage: 5
+  contactDamage: 100
   hitCooldown: 1
 --- !u!212 &150732051
 SpriteRenderer:
@@ -36719,6 +36719,10 @@ PrefabInstance:
     - target: {fileID: 4769712485735649743, guid: a1b15042c9dd60e41a312843c9cf1155, type: 3}
       propertyPath: showMessage
       value: hello world
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769712485735649743, guid: a1b15042c9dd60e41a312843c9cf1155, type: 3}
+      propertyPath: nextSceneName
+      value: Bulgaria death screen
       objectReference: {fileID: 0}
     - target: {fileID: 4769712485735649743, guid: a1b15042c9dd60e41a312843c9cf1155, type: 3}
       propertyPath: messageDisplay

@@ -1,4 +1,4 @@
-using UnityEditor;
+﻿using UnityEditor;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -14,6 +14,8 @@ public class PlayerMovement : MonoBehaviour
     public GameManager gameManager; // Reference to the Game Manager script
     public bool deathState = false; // Set default death state to false
     private float horizontalInput;
+
+    [SerializeField] private HealthSystem healthSystem; // 👈 This will now be visible
 
 
     private SpriteRenderer spritegraphic;
@@ -82,6 +84,7 @@ public class PlayerMovement : MonoBehaviour
         {
             Jump();
         }
+
     }
 
     public void OnTriggerEnter2D(Collider2D other)
@@ -91,6 +94,7 @@ public class PlayerMovement : MonoBehaviour
             gameManager.coinsCounter += 1;
             Destroy(other.gameObject);
             Debug.Log("Player has collected a coin!");
+
         }
        
         if (other.gameObject.tag == "Finish")

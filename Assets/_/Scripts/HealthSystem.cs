@@ -1,4 +1,3 @@
-using Unity.VisualScripting.Antlr3.Runtime;
 using UnityEngine;
 
 [System.Serializable]
@@ -20,7 +19,9 @@ public class HealthSystem
         get { return currentHealth; }
         private set
         {
-            currentHealth = Mathf.Clamp(value, 0, MaxHealth); // keeps within 0–max
+            // This is the clamp that prevents overhealing (keeps within 0–max)
+            currentHealth = Mathf.Clamp(value, 0, MaxHealth);
+            //currentHealth = value;
         }
     }
 
@@ -30,10 +31,10 @@ public class HealthSystem
         return currentHealth;
     }
 
-    public HealthSystem(int maxHealth)
+    public HealthSystem(int maxHealth, int currentHealth)
     {
         MaxHealth = maxHealth;
-        CurrentHealth = maxHealth;
+        CurrentHealth = currentHealth;
     }
 
     public void TakeDamage(int amount)
@@ -44,8 +45,10 @@ public class HealthSystem
 
     public void Heal(int amount)
     {
+        // This setter runs the clamping logic defined above
         CurrentHealth += amount;
-        Debug.Log($"Healed {amount}. Health now: {CurrentHealth}");
+        // Keeping the log minimal here as Player.cs now handles detailed logging
+        Debug.Log($"Attempted to heal {amount}. Health clamped by setter."); 
     }
 
     public bool IsDead => CurrentHealth <= 0; // Expression-bodied property

@@ -30,7 +30,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Ottoman death screen.unity
     guid: c74974dd2695be0488d6b68a584e5765
   - enabled: 1
-    path: Assets/Scenes/Ottoman  empire.unity
+    path: Assets/Scenes/Ottoman empire.unity
     guid: c274a263c3919dc4ab2e04d162a4692e
   - enabled: 1
     path: Assets/Scenes/Ukraine.unity
